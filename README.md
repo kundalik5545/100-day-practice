@@ -1,36 +1,82 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<!--
+This README file is part of the "100 Day JavaScript with Next.js and PostgreSQL Practice" project.
+It serves as an overview and guide for the daily practice of JavaScript, Next.js, and PostgreSQL concepts.
+-->
 
-## Getting Started
+## 100 Day JavaScript with Next.js and PostgreSQL Practice
 
-First, run the development server:
+### Roadmap
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+#### Week 1-2: JavaScript Fundamentals
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Variables, Data Types, and Operators
+- Functions and Scope
+- Arrays and Objects
+- DOM Manipulation and Events
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+#### Week 3-4: Advanced JavaScript
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- ES6+ Features (Arrow Functions, Destructuring, Spread/Rest Operators)
+- Promises and Async/Await
+- Modules and Imports/Exports
+- Error Handling and Debugging
 
-## Learn More
+#### Week 5-6: Introduction to Next.js
 
-To learn more about Next.js, take a look at the following resources:
+- Setting up a Next.js Project
+- Pages and Routing
+- Static and Dynamic Rendering
+- API Routes in Next.js
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+#### Week 7-8: Styling and State Management
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- CSS Modules and Styled Components
+- Global Styles and Themes
+- State Management with React Context
+- Introduction to Redux (Optional)
 
-## Deploy on Vercel
+#### Week 9-10: PostgreSQL Basics
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Setting up PostgreSQL
+- Database Design and Schema Creation
+- CRUD Operations with SQL
+- Connecting PostgreSQL with Node.js
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+#### Week 11-12: Integrating PostgreSQL with Next.js
+
+- Using `pg` or `Prisma` for Database Access
+- Querying Data in API Routes
+- Handling Database Transactions
+- Optimizing Database Queries
+
+#### Week 13-14: Authentication and Authorization
+
+- Implementing User Authentication
+- Securing API Routes
+- Role-Based Access Control
+- Using Libraries like `next-auth`
+
+#### Week 15-16: Building a Full-Stack Application
+
+- Planning and Designing the Application
+- Building the Frontend with Next.js
+- Creating the Backend with API Routes
+- Integrating PostgreSQL for Data Persistence
+
+#### Week 17-18: Testing and Deployment
+
+- Writing Unit and Integration Tests
+- Testing API Routes and Database Queries
+- Deploying the Application to Vercel
+- Setting up a PostgreSQL Database in Production
+
+### Important Topics to Learn
+
+- JavaScript Fundamentals and ES6+ Features
+- React Basics and Advanced Concepts
+- Next.js Framework (Routing, Rendering, API Routes)
+- PostgreSQL (Schema Design, Queries, Transactions)
+- Authentication and Authorization
+- Testing and Deployment Best Practices
+
+This roadmap provides a structured approach to mastering JavaScript, Next.js, and PostgreSQL in 100 days.
